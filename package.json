@@ -6,9 +6,15 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "icon": "smooth-dark.png",
     "categories": [
         "Themes"
     ],
+    "publisher": "PiesArentSquare",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PiesArentSquare/smooth-dark.git"
+    },
     "contributes": {
         "themes": [
             {

@@ -1,3 +1,17 @@
-A nice dark theme inpired by monokai and palenight
+# Smooth Dark
 
-![Theme Preview](./smooth-dark.png)
+A nice dark theme inpired by monokai and material
+
+![Theme Preview](https://github.com/PiesArentSquare/smooth-dark/blob/master/theme-preview.png)
+
+## Installation
+
+You can install this theme via the [VSCode Marketplace]()
+
+Or clone it into your ``.vscode/extensions/`` folder located:
+- Linux & Mac: ``~/.vscode/extensions/``
+- Windows: ``%USERPROFILE%\\.vscode\\extensions\\``
+
+with the command:
+
+    git clone https://github.com/PiesArentSquare/smooth-dark.git PiesArentSquare.smooth-dark
