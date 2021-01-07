@@ -2,11 +2,11 @@
 
 A nice dark theme inpired by monokai and material
 
-![Theme Preview](https://github.com/PiesArentSquare/smooth-dark/blob/master/theme-preview.png)
+![Theme Preview](theme-preview.png)
 
 ## Installation
 
-You can install this theme via the [VSCode Marketplace]()
+You can install this theme via the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=PiesArentSquare.smooth-dark)
 
 Or clone it into your ``.vscode/extensions/`` folder located:
 - Linux & Mac: ``~/.vscode/extensions/``
