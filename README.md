@@ -10,7 +10,7 @@ You can install this theme via the [VSCode Marketplace](https://marketplace.visu
 
 Or clone it into your ``.vscode/extensions/`` folder located:
 - Linux & Mac: ``~/.vscode/extensions/``
-- Windows: ``%USERPROFILE%\\.vscode\\extensions\\``
+- Windows: ``%USERPROFILE%\.vscode\extensions\``
 
 with the command:
 
