@@ -6,4 +6,4 @@ All notable changes to the "smooth-dark" extension will be documented in this fi
 
 - Initial release
 
-- Update README with marketplace link
+- Improved colors a tad
