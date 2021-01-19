@@ -190,7 +190,7 @@
         "editorIndentGuide.activeBackground": "#91969D",
         "editorRuler.foreground": "#1E2026",
         "editor.linkedEditingBackground": "#ff0000",
-        "editorCodeLens.foreground": "#ff0000",
+        "editorCodeLens.foreground": "#e4bd68",
         "editorLightBulb.foreground": "#e4bd68",
         "editorLightBulbAutoFix.foreground": "#75cbdf",
         "editorBracketMatch.background": "#00000000",
@@ -305,7 +305,13 @@
 
         "terminal.ansiBlack": "#000000",
         "terminal.ansiBlue": "#4e61cc",
-        "terminal.ansiBrightBlack": "#1E2026",
+        "terminal.ansiCyan": "#3b8ba5",
+        "terminal.ansiGreen": "#4BB994",
+        "terminal.ansiMagenta": "#78429B",
+        "terminal.ansiRed": "#B1405F",
+        "terminal.ansiWhite": "#91969D",
+        "terminal.ansiYellow": "#c27c43",
+        "terminal.ansiBrightBlack": "#6d768f",
         "terminal.ansiBrightBlue": "#5179ce",
         "terminal.ansiBrightCyan": "#75cbdf",
         "terminal.ansiBrightGreen": "#a6d66e",
@@ -313,12 +319,6 @@
         "terminal.ansiBrightRed": "#EE4A66",
         "terminal.ansiBrightWhite": "#ffffff",
         "terminal.ansiBrightYellow": "#e4bd68",
-        "terminal.ansiCyan": "#3b8ba5",
-        "terminal.ansiGreen": "#4BB994",
-        "terminal.ansiMagenta": "#78429B",
-        "terminal.ansiRed": "#B1405F",
-        "terminal.ansiWhite": "#91969D",
-        "terminal.ansiYellow": "#c27c43",
         "terminal.selectionBackground": "#91969D30",
 
         "debugToolBar.background": "#1E2026",
@@ -345,6 +345,14 @@
         "gitDecoration.ignoredResourceForeground": "#91969D",
         "gitDecoration.submoduleResourceForeground": "#b06fd0",
         "gitDecoration.conflictingResourceForeground": "#EE4A66",
+
+        "merge.border": "#1e2026",
+        "merge.commonContentBackground": "#a6d66e30",
+        "merge.commonHeaderBackground": "#a6d66e60",
+        "merge.currentContentBackground": "#75cbdf30",
+        "merge.currentHeaderBackground": "#75cbdf60",
+        "merge.incomingContentBackground": "#e4bd6830",
+        "merge.incomingHeaderBackground": "#e4bd6860",
 
         "settings.modifiedItemIndicator": "#4BB994",
 
@@ -790,16 +798,14 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-              "background": "#B1405F",
-              "foreground": "#ffffff"
+              "foreground": "#EE4A66"
             }
         },
         {
             "name": "Invalid deprecated",
             "scope": "invalid.deprecated",
             "settings": {
-              "background": "#4e61cc",
-              "foreground": "#ffffff"
+              "foreground": "#B1405F"
             }
         },
         {
