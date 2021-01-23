@@ -443,6 +443,8 @@
             "name": "String",
             "scope": [
                 "string",
+                "string.quoted",
+                "string.other"
             ],
             "settings": {
                 "foreground": "#e4bd68"
@@ -481,7 +483,9 @@
                 "meta.property-list",
                 "meta.block",
                 "punctuation.terminator",
-                "punctuation.section.block"
+                "punctuation.section.block",
+                "punctuation.separator",
+                "meta.structure.dictionary"
             ],
             "settings": {
                 "foreground": "#75cbdf"
