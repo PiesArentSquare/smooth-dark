@@ -2,7 +2,7 @@
     "name": "smooth-dark",
     "displayName": "Smooth Dark",
     "description": "A nice dark theme inpired by monokai and material",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "engines": {
         "vscode": "^1.52.0"
     },
