@@ -366,18 +366,18 @@
         "symbolIcon.arrayForeground": "#c5c5c5",
         "symbolIcon.booleanForeground": "#b06fd0",
         "symbolIcon.classForeground": "#c27c43",
-        "symbolIcon.colorForeground": "#ff0000",
+        "symbolIcon.colorForeground": "#c5c5c5",
         "symbolIcon.constantForeground": "#4e61cc",
         "symbolIcon.constructorForeground": "#4BB994",
         "symbolIcon.enumeratorForeground": "#e4bd68",
         "symbolIcon.enumeratorMemberForeground": "#5179ce",
-        "symbolIcon.eventForeground": "#ff0000",
+        "symbolIcon.eventForeground": "#c5c5c5",
         "symbolIcon.fieldForeground": "#75cbdf",
-        "symbolIcon.fileForeground": "#ff0000",
-        "symbolIcon.folderForeground": "#ff0000",
+        "symbolIcon.fileForeground": "#c5c5c5",
+        "symbolIcon.folderForeground": "#c5c5c5",
         "symbolIcon.functionForeground": "#78429B",
         "symbolIcon.interfaceForeground": "#5179ce",
-        "symbolIcon.keyForeground": "#ff0000",
+        "symbolIcon.keyForeground": "#c5c5c5",
         "symbolIcon.keywordForeground": "#c5c5c5",
         "symbolIcon.methodForeground": "#b06fd0",
         "symbolIcon.moduleForeground": "#c5c5c5",
@@ -386,15 +386,15 @@
         "symbolIcon.numberForeground": "#b06fd0",
         "symbolIcon.objectForeground": "#c5c5c5",
         "symbolIcon.operatorForeground": "#5179ce",
-        "symbolIcon.packageForeground": "#ff0000",
+        "symbolIcon.packageForeground": "#c5c5c5",
         "symbolIcon.propertyForeground": "#5179ce",
-        "symbolIcon.referenceForeground": "#ff0000",
+        "symbolIcon.referenceForeground": "#c5c5c5",
         "symbolIcon.stringForeground": "#e4bd68",
         "symbolIcon.snippetForeground": "#c5c5c5",
         "symbolIcon.structForeground": "#c5c5c5",
         "symbolIcon.textForeground": "#c5c5c5",
-        "symbolIcon.typeParameterForeground": "#ff0000",
-        "symbolIcon.unitForeground": "#ff0000",
+        "symbolIcon.typeParameterForeground": "#c5c5c5",
+        "symbolIcon.unitForeground": "#c5c5c5",
         "symbolIcon.variableForeground": "#c27c43",
 
         "debugIcon.breakpointForeground": "#EE4A66",
@@ -607,7 +607,7 @@
               "storage.modifier.package"
             ],
             "settings": {
-              "foreground": "#f00ff0"
+              "foreground": "#e4bd68"
             }
         },
         {
@@ -636,7 +636,7 @@
             "name": "Function call",
             "scope": "entity.name.function-call",
             "settings": {
-              "foreground": "#ffff00"
+              "foreground": "#ff00ff"
             }
         },
         {
