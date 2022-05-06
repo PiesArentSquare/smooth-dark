@@ -167,6 +167,14 @@
         "editor.wordHighlightStrongBackground": "#e4bd6830",
         "editor.wordHighlightStrongBorder": "#00000000",
 
+        "editorBracketHighlight.foreground1": "#c5c5c5",
+        "editorBracketHighlight.foreground2": "#75cbdf",
+        "editorBracketHighlight.foreground3": "#e4bd68",
+        "editorBracketHighlight.foreground4": "#b06fd0",
+        "editorBracketHighlight.foreground5": "#4BB994",
+        "editorBracketHighlight.foreground6": "#5179ce",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#EE4A66",
+
         "editor.findMatchBackground": "#75cbdf30",
         "editor.findMatchBorder": "#00000000",
         "editor.findMatchHighlightBackground": "#75cbdf18",
