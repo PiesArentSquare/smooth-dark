@@ -275,8 +275,6 @@
         "panelSectionHeader.border": "#ff0000",
         "panelSectionHeader.foreground": "#c5c5c5",
 
-        "imagePreview.border": "#292D3E",
-
         "statusBar.background": "#232632",
         "statusBar.foreground": "#91969D",
         "statusBar.border": "#00000000",
@@ -459,12 +457,14 @@
             }
         },
         {
-            "name": "String Embed Start/End",
+            "name": "String Features",
             "scope": [
               "string.embedded.begin",
               "string.embedded.end",
               "punctuation.definition.template-expression",
-              "punctuation.section.embedded"
+              "punctuation.section.embedded",
+              "punctuation.definition.string",
+              "punctuation.definition.interpolation",
             ],
             "settings": {
               "foreground": "#3b8ba5"
